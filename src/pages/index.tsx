@@ -1,6 +1,7 @@
 import { Box, Divider, Flex } from '@chakra-ui/react';
 import Head from 'next/head';
 import { Banner } from '../components/Banner';
+import { Slider } from '../components/Slider';
 
 export default function Home() {
   return (
@@ -37,6 +38,8 @@ export default function Home() {
           backgroundColor="gray.600"
           alignSelf="center"
         />
+
+        <Slider />
       </Flex>
     </>
   );
