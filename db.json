@@ -1,0 +1,226 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "ref": "europe",
+      "name": "Europa",
+      "imageUrl": "",
+      "bodyContent": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countriesCount": 50,
+      "languagesCount": 60,
+      "citiesCount": 27,
+      "cities": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "imageUrl": ""
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "imageUrl": ""
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "imageUrl": ""
+        },
+        {
+          "name": "Praga",
+          "country": "República Tcheca",
+          "imageUrl": ""
+        },
+        {
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "ref": "north-america",
+      "name": "América do Norte",
+      "imageUrl": "",
+      "bodyContent": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countriesCount": 50,
+      "languagesCount": 60,
+      "citiesCount": 27,
+      "cities": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "imageUrl": ""
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "imageUrl": ""
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "imageUrl": ""
+        },
+        {
+          "name": "Praga",
+          "country": "República Tcheca",
+          "imageUrl": ""
+        },
+        {
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "ref": "south-america",
+      "name": "América do Sul",
+      "imageUrl": "",
+      "bodyContent": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countriesCount": 50,
+      "languagesCount": 60,
+      "citiesCount": 27,
+      "cities": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "imageUrl": ""
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "imageUrl": ""
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "imageUrl": ""
+        },
+        {
+          "name": "Praga",
+          "country": "República Tcheca",
+          "imageUrl": ""
+        },
+        {
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "ref": "asia",
+      "name": "Ásia",
+      "imageUrl": "",
+      "bodyContent": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countriesCount": 50,
+      "languagesCount": 60,
+      "citiesCount": 27,
+      "cities": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "imageUrl": ""
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "imageUrl": ""
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "imageUrl": ""
+        },
+        {
+          "name": "Praga",
+          "country": "República Tcheca",
+          "imageUrl": ""
+        },
+        {
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "ref": "africa",
+      "name": "África",
+      "imageUrl": "",
+      "bodyContent": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countriesCount": 50,
+      "languagesCount": 60,
+      "citiesCount": 27,
+      "cities": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "imageUrl": ""
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "imageUrl": ""
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "imageUrl": ""
+        },
+        {
+          "name": "Praga",
+          "country": "República Tcheca",
+          "imageUrl": ""
+        },
+        {
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "ref": "oceania",
+      "name": "Oceania",
+      "imageUrl": "",
+      "bodyContent": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countriesCount": 50,
+      "languagesCount": 60,
+      "citiesCount": 27,
+      "cities": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "imageUrl": ""
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "imageUrl": ""
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "imageUrl": ""
+        },
+        {
+          "name": "Praga",
+          "country": "República Tcheca",
+          "imageUrl": ""
+        },
+        {
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "imageUrl": ""
+        }
+      ]
+    }
+  ]
+}

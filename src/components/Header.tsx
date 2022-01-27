@@ -1,4 +1,4 @@
-import { Flex } from '@chakra-ui/react';
+import { Flex, Image } from '@chakra-ui/react';
 
 export function Header() {
   return (
@@ -10,7 +10,7 @@ export function Header() {
       justify="center"
       align="center"
     >
-      <img src="/images/Logo.png" alt="Logo worldtrip" />
+      <Image src="/images/Logo.png" alt="Logo worldtrip" />
     </Flex>
   );
 }

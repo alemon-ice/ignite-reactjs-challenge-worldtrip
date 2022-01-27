@@ -1,4 +1,4 @@
-import { Flex, Stack, Text } from '@chakra-ui/react';
+import { Flex, Image, Stack, Text } from '@chakra-ui/react';
 
 export function Banner() {
   return (
@@ -11,14 +11,14 @@ export function Banner() {
     >
       <Stack direction="column" spacing="5">
         <Text as="h1" color="gray.50" fontSize="3xl" maxWidth={400}>
-          5 Continentes,
+          6 Continentes,
           <br /> infinitas possibilidades.
         </Text>
         <Text color="gray.50" fontSize="1xl" maxWidth={500}>
           Chegou a hora de tirar do papel a viagem que você sempre sonhou.{' '}
         </Text>
       </Stack>
-      <img src="/images/Airplane.png" alt="Airplane" />
+      <Image src="/images/Airplane.png" alt="Airplane" />
     </Flex>
   );
 }
