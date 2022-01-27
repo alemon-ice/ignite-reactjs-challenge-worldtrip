@@ -87,7 +87,7 @@ export function Slider() {
                 <a>
                   <Heading
                     fontSize={['3xl', '4xl', '5xl']}
-                    color="gray.100"
+                    color="gray.50"
                     fontWeight="bold"
                   >
                     {continent.title}
